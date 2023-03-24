@@ -12,7 +12,7 @@ describing what the program does.
 
 
 
-// This code is converting Upper case string into Lower case string 
+// This code is converting Upper case string into Lower case string.
 
 
 
